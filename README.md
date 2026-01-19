@@ -1,7 +1,3 @@
-Here’s a **revised, polished version** of your README that’s slightly more concise, professional, and LinkedIn/GitHub friendly. I clarified some phrasing, improved flow, and emphasized outcomes and skills demonstrated:
-
----
-
 # business-decision-simulator
 
 # **Business Decision & Profitability Simulator**
